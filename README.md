@@ -10,6 +10,17 @@ Weight lifting app
 - [ ] Alarm to remind to workout 
 - [ ] Warm up tab depend on the workout day split
 
+
+
+Janurary Deadline:
+  + Create signup/ login page 
+  + Mock up Database storage solution 
+  + UI/UX design
+  + Activity Layout
+
+Feb Deadline:
+
+
 Reference
 login:
 https://code.tutsplus.com/tutorials/quick-tip-add-facebook-login-to-your-android-app--cms-23837
