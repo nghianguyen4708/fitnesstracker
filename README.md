@@ -1,15 +1,18 @@
 # fitnesstracker
 Weight lifting app 
+
+Core Featues:
 - [ ] Default to 4x10 or customizable fitness goal
+- [ ] Warm up tab depend on the workout day split
 - [ ] Bar/weight measurement 
 - [ ] Graph tracking progress 
-- [ ] Video tutorial on how to do it 
-- [ ] Calendar/ duration of the training program you wish to follow
 - [ ] Split the workout into day by day basis 
-- [ ] Move the workout program around 
-- [ ] Alarm to remind to workout 
-- [ ] Warm up tab depend on the workout day split
+- [ ] Calendar/ duration of the training program you wish to follow
 
+Addtional Feature 
+- [ ] Video tutorial on how to do it 
+- [ ] Alarm to remind to workout 
+- [ ] Move the workout program around 
 
 
 Janurary Deadline:
