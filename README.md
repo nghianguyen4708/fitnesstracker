@@ -1,5 +1,5 @@
 # fitnesstracker
-Weight lifting app 
+Weight lifting app
 
 Core Featues:
 - [ ] Default to 4x10 or customizable fitness goal
@@ -22,6 +22,7 @@ Janurary Deadline:
   + Activity Layout
 
 Feb Deadline:
+  + derp
 
 
 Reference
