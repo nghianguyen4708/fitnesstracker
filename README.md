@@ -22,7 +22,6 @@ Janurary Deadline:
   + Activity Layout
 
 Feb Deadline:
-  + derp
 
 
 Reference
